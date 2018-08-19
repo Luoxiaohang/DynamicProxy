@@ -107,4 +107,8 @@ public class Test {
         return paramInfo;
     }
 
+    public static void main(String[] args) {
+        System.out.println("first commit");
+    }
+
 }

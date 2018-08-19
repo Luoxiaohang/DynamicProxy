@@ -3,9 +3,6 @@ package service;
 import Entity.ResultEntity;
 import anotation.Service;
 import org.junit.Test;
-import proxy.MethodProxy;
-
-import java.util.Map;
 
 @Service
 public class ProxyTargetServie {
